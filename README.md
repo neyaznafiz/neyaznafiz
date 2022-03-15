@@ -15,7 +15,9 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue&line_height=33">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue&line_height=80">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz">
 
 [![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
