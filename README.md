@@ -15,7 +15,7 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz"> <img src="https://github-profile-trophy.vercel.app/?username={username}">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue&line_height=80">
 
