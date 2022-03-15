@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&hide_langs_below=1">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&hide_langs_below=1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue">
 
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
