@@ -20,7 +20,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue&line_height=80">
 
-[![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)]
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
