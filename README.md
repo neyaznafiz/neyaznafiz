@@ -18,7 +18,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz">
 <img src="https://github-profile-trophy.vercel.app/?username=neyaznafiz">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue&line_height=80">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue">
 
 [![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)]
 
