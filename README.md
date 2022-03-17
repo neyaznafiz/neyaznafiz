@@ -46,6 +46,6 @@
 <hr>
 
 ### BLOGS
-![Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
+[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
 <hr>
