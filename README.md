@@ -36,6 +36,8 @@
 
 ### 📋  BLOGS ⇘
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
+### ➥ [About user input in programing language](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
+
 
 <hr>
 
