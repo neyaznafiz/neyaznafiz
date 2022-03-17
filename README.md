@@ -6,7 +6,7 @@
 <hr>
 
 ### 💻 Technologies that I know
-###-----------------------------
+### -----------------------------
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -34,13 +34,13 @@
 <hr>
 
 ### 📋  BLOGS
-###----------
+### ----------
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
 <hr>
 
 ### 📫  REACH ME OUT
-###------------------
+### ------------------
 <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
 <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
 <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
