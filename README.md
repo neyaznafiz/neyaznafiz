@@ -43,10 +43,11 @@
 <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp;
 <a href="https://twitter.com/beingexistn">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
 
-
+<hr>
 
 ### BLOGS
 <hr>
+
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
 <hr>
