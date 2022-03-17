@@ -37,10 +37,10 @@
 
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
-
+<hr>
 
 ### 📫  REACH ME OUT
-<hr>
+
 
 <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
 <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
