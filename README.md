@@ -32,7 +32,13 @@
 
 ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)
 
-### - 📫  REACH ME OUT
+### 📋  BLOGS
+<hr>
+
+### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
+
+
+### 📫  REACH ME OUT
 <hr>
 
 <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
@@ -43,11 +49,5 @@
 <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp;
 <a href="https://twitter.com/beingexistn">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
 
-<hr>
-
-### BLOGS
-<hr>
-
-### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
 <hr>
