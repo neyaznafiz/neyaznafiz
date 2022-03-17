@@ -3,9 +3,9 @@
 ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif)
 
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&hide_langs_below=1">
+<hr>
 
 ### 💻 Technologies that I know
-<hr>
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -31,9 +31,9 @@
 <hr>
 
 ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)
+<hr>
 
 ### 📋  BLOGS
-<hr>
 
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
 
