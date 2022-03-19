@@ -36,8 +36,8 @@
 
 ### 📋  BLOGS ⇘
 ### ➥ [Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)
-### ➥ [Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)
 ### ➥ [About user input in programing language](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)
+### ➥ [Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)
 
 
 <hr>
