@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&hide_langs_below=1">
 <hr>
 
-### ***💻 Technologies that I know*** ⇘
+### ==***💻 Technologies that I know***== ⇘
 
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
