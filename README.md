@@ -45,8 +45,8 @@
 
 <hr>
 
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz">
+ 
+ [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=holi-theme&color=5faaed)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  
 <hr>
