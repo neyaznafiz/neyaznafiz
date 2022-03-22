@@ -9,7 +9,7 @@
 
 </br>
 
-## *💻 Technologies that I know* ⇘
+# *💻 Technologies that I know* ⇘
 
 </br>
 
@@ -40,9 +40,7 @@
 <hr>
 </br>
 
-## 📋  *BLOGS* ⇘
-
-</br>
+# 📋  *BLOGS* ⇘
 
 ### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
 ### ➥ *[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)*
@@ -53,7 +51,7 @@
 <hr>
 </br>
 
-## 📫  *REACH ME OUT* ⇘
+# 📫  *REACH ME OUT* ⇘
 
 </br>
 
