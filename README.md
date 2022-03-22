@@ -7,7 +7,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=light&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&hide_langs_below=1">
 <hr>
 
-### *💻 Technologies that I know* ⇘
+</br>
+
+## *💻 Technologies that I know* ⇘
+
+</br>
 
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -34,8 +38,12 @@
 
 ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)
 <hr>
+</br>
 
-### 📋  *BLOGS* ⇘
+## 📋  *BLOGS* ⇘
+
+</br>
+
 ### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
 ### ➥ *[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)*
 ### ➥ *[About user input in programing language](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
@@ -43,8 +51,11 @@
 
 
 <hr>
+</br>
 
-### 📫  *REACH ME OUT* ⇘
+## 📫  *REACH ME OUT* ⇘
+
+</br>
 
 <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
 <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
