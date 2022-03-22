@@ -57,14 +57,14 @@
 
 ### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
 ### ➥ *[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)*
-### ➥ *[About user input in programing language](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
+### ➥ *[About user input in programing language.](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
 <hr>
 
-<div border="2px solid gray">
+<div border="20px">
  
- ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)
+ ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=000000&color=ffffff&line=0ebaec&point=1adbce&area=true&hide_border=true)
  
  </div>
 
