@@ -24,9 +24,7 @@
 
 <hr>
 
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyaznafiz&theme=vue">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz">
 
 <hr>
 
