@@ -9,7 +9,7 @@
 
 </br>
 
-# 📫  *REACH ME OUT* ⇘
+## 📫  *REACH ME OUT* ⇘
 
 </br>
 
@@ -24,7 +24,7 @@
 <hr>
 </br>
 
-# *💻 Technologies that I know* ⇘
+## *💻 Technologies that I know* ⇘
 
 </br>
 
