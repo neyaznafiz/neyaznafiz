@@ -63,7 +63,9 @@
 <hr>
 
 <div border="2px solid gray">
+ 
  ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=ffffff&color=010203&line=0ebaec&point=1adbce&area=true&hide_border=true)
+ 
  </div>
 
 
