@@ -60,13 +60,6 @@
 ### ➥ *[About user input in programing language.](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
-<hr>
-
- 
- ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph username=neyaznafiz&bg_color=000000&color=ffffff&line=0ebaec&point=1adbce&area=true&hide_border=true);
-
-<img src="https://starchart.cc/neyaznafiz/{repo}.svg">
-
 
 </div>
 
