@@ -62,11 +62,9 @@
 
 <hr>
 
-<div border="20px">
  
  ![NEYAZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=000000&color=ffffff&line=0ebaec&point=1adbce&area=true&hide_border=true)
- 
- </div>
+
 
 
 </div>
