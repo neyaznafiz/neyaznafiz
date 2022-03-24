@@ -46,7 +46,7 @@
 <hr>
 
  
- [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=holi-theme&color=5faaed)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
  
 <hr>
@@ -59,6 +59,9 @@
 ### ➥ *[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)*
 ### ➥ *[About user input in programing language.](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 </div>
