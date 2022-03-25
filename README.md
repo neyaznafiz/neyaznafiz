@@ -5,6 +5,11 @@
  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif)
  
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=github_dark&line_height=33"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=github_dark&hide_langs_below=1">
+ 
+ <hr>
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ 
 <hr>
 
 </br>
@@ -60,9 +65,6 @@
 ### ➥ *[About user input in programing language.](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
-<hr>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
