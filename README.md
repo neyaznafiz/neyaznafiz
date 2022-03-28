@@ -64,7 +64,7 @@
 
 <hr>
 
-[![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
 </div>
 
