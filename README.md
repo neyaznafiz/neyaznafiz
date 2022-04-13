@@ -9,14 +9,10 @@
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=33">
+ <img width="450"  src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=33"> <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs?username=neyaznafiz&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" />
  
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
  
- </br>
-  </br>
- 
- <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neyaznafiz&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" /></p>
  
 <hr>
 
