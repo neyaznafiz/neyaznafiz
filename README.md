@@ -20,18 +20,18 @@
 
 </br>
 
-## 📫  *REACH ME OUT*  <a href='https://dev.to/neyaznafiz'>⇘<a/>
+## 📫  *REACH ME OUT* ⇘
 
 </br>
  
- <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
+ <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
 <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
 <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
 <a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp;
 <a href="https://instagram.com/beingexist">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
+<a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
 <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp;
-<a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
- 
+
 
 <hr>
 </br>
@@ -61,11 +61,10 @@
 
  </br>
 
-# 📋  *BLOGS* ⇘
+# 📋  *<a href='https://dev.to/neyaznafiz'>CHECKOUT ALL BLOGS ⇒<a/>*
 
 ### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
-### ➥ *[Variable types in programing language.](https://dev.to/neyaznafiz/variable-types-in-programing-language-5g2d)*
-### ➥ *[About user input in programing language.](https://dev.to/neyaznafiz/about-user-input-in-programing-language-2aa0)*
+### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)*
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
 
