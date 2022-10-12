@@ -6,7 +6,10 @@
  
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY <a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>
  
+ neyaznafiz@outlook.com
+ 
  <hr>
+ 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
