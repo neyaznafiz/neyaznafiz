@@ -30,6 +30,9 @@
   <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
  <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
  
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="neyaznafiz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/neyaznafiz?trk=profile-badge">Neyaz Mobalik Nafiz</a></div>
+              
+ 
 <!--  [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:neyaznafiz@outlook.com) -->
 
 <!--  <a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp; -->
