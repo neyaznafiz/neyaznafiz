@@ -82,11 +82,11 @@
 
 ### *💻 BLOGS* ⇘
 
-### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
-### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)*
-### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
+#### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
+#### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)*
+#### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
- <div align="end">
+<div align="end">
  <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
 </div>
 
