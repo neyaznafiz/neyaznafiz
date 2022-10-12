@@ -87,7 +87,7 @@
 ### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
 
  <div align="end">
- <a href='https://dev.to/neyaznafiz'>CHECKOUT ALL BLOGS ⇒<a/>
+ <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
 </div>
 
 <hr>
