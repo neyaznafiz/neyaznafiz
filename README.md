@@ -4,7 +4,8 @@
 
  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif)
  
-             
+ ![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196478260-0b264bed-4547-46a5-a5c2-6a546a75fde4.png)
+
 
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
  
