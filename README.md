@@ -5,7 +5,7 @@
 <!--  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif) -->
 
 
-![neyaznafiz-card rounded](https://user-images.githubusercontent.com/92919697/196683964-fe144eac-4c68-4e73-91d8-d6b4fba51b86.jpeg)
+![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196685978-76e7be67-337f-41e3-a990-7d8a65aad786.png)
 
 
 
