@@ -12,14 +12,15 @@
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
  
  <hr>
- 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
- 
+
+  
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) </br>
  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1">
  
-<!--  <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs?username=neyaznafiz&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" /> -->
+<!--  <img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs?username=neyaznafiz&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" /> -->
  
+<!--  (https://github.com/DenverCoder1/github-readme-streak-stats) -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
  
  
  
