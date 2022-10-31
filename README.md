@@ -5,11 +5,11 @@
 <!--  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif) -->
 
 
-<!-- ![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196685978-76e7be67-337f-41e3-a990-7d8a65aad786.png) -->
+![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196685978-76e7be67-337f-41e3-a990-7d8a65aad786.png)
  
 <!-- ![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png) -->
 
-![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png)
+<!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
 
 
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
@@ -37,6 +37,7 @@
 
   <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
  <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
+  <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
   <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
  <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
  
@@ -46,7 +47,7 @@
 
 <!--  <a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp; -->
 
-<!-- <a href="https://instagram.com/beingexist">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp; -->
+
 <!-- <a href="https://github.com/neyaznafiz">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp; -->
 
 <!-- <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp; -->
