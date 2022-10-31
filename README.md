@@ -7,8 +7,9 @@
 
 <!-- ![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196685978-76e7be67-337f-41e3-a990-7d8a65aad786.png) -->
  
-![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png)
+<!-- ![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png) -->
 
+![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png)
 
 
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
