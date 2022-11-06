@@ -4,7 +4,7 @@
  
 <!--  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif) -->
  
- ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png)
+<!--  ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png) -->
 
  
 
@@ -12,7 +12,7 @@
  
 <!-- ![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png) -->
 
-<!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
+![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png)
 
 
  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
