@@ -5,12 +5,14 @@
 <!--  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif) -->
  
 <!--  ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png) -->
+![neyaz- neon-logo (2)](https://user-images.githubusercontent.com/92919697/200193687-5b45957d-4d2d-4412-9771-8e679fbb7a27.png)
 
- 
+<!--  ![neyaz- neon-logo (1)](https://user-images.githubusercontent.com/92919697/200193647-8325d11a-d4ae-4dfc-afbf-540e070a5af2.png) -->
+
 
 <!-- ![neyaznafiz-card](https://user-images.githubusercontent.com/92919697/196685978-76e7be67-337f-41e3-a990-7d8a65aad786.png) -->
  
-![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png)
+<!-- ![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png) -->
 
 <!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
 
