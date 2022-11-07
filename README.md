@@ -4,8 +4,9 @@
  
 <!--  ![ezgif-4-198654169e](https://user-images.githubusercontent.com/92919697/158129322-2403dc29-39ce-4ed5-aab2-13feacc46f79.gif) -->
  
-<!--  ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png) -->
-![neyaz- neon-logo (2)](https://user-images.githubusercontent.com/92919697/200193687-5b45957d-4d2d-4412-9771-8e679fbb7a27.png)
+ ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png)
+ 
+<!-- ![neyaz- neon-logo (2)](https://user-images.githubusercontent.com/92919697/200193687-5b45957d-4d2d-4412-9771-8e679fbb7a27.png) -->
 
 <!--  ![neyaz- neon-logo (1)](https://user-images.githubusercontent.com/92919697/200193647-8325d11a-d4ae-4dfc-afbf-540e070a5af2.png) -->
 
