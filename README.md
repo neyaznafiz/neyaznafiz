@@ -87,6 +87,12 @@
 <!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
 ![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<div align="start">
+ 
+ ### WHAT I AM WORKING ON NOW...!
+##### Currently, I'm working on an extension for Google Chrome called "Pixel Picker". This extension has several advantages, including the ability to pick any color from anywhere, inside the browser and outside also, meaning anywhere on your computer.
+
+</div>
 
 <hr>
 <!-- 
