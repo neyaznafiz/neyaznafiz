@@ -1,9 +1,12 @@
 <hr>
  
 <div align="center">
-
  
- <a href="https://neyaznafiz.info/" target="_blank">![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png)</a>
+ <a href="https://neyaznafiz.info/" target="_blank">![neyaznafiz-card-for-github-small-transp](https://user-images.githubusercontent.com/92919697/203008499-6fbf2f29-4646-4703-ab9c-59b89918b0c9.png)</a>
+ 
+<!--  ![neyaznafiz-card-for-github-small-transp](https://user-images.githubusercontent.com/92919697/203007944-316e1bd7-5c18-4a96-a12f-3ac0340ba473.png) -->
+ 
+<!--  ![neyaznafiz-card-for-all-crop](https://user-images.githubusercontent.com/92919697/199110379-744dd13c-231a-47ab-b831-044b934cb4e2.png) -->
  
 <!--  ![webpage](https://user-images.githubusercontent.com/92919697/202865971-3e140e74-8a0d-40be-8f2b-f19e98b3acdd.png) -->
  
