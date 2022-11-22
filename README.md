@@ -1,4 +1,6 @@
 <hr>
+
+<a href="https://www.neyaznafiz.info">![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp;
  
 <div align="center">
  
