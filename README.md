@@ -6,14 +6,11 @@
  
  <hr>
 
- 
- 
-
- <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203327940-1ec4023d-0475-4334-8b00-7ef6b86e111c.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=lrx" width="245" alt="NEYAZ NAFIZ's Dev Card"/></a>
+ <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203328205-54cfe3f3-d610-4c68-9742-e91bd3036f91.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=lrx" width="245" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
   IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
  
-
+<!-- ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203327940-1ec4023d-0475-4334-8b00-7ef6b86e111c.png)  -->
  
 <!--  ![neyaznafiz-card-for-github-small-transp](https://user-images.githubusercontent.com/92919697/203007944-316e1bd7-5c18-4a96-a12f-3ac0340ba473.png) -->
  
