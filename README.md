@@ -2,7 +2,18 @@
  
 <div align="center">
  
- <a href="https://neyaznafiz.info/" target="_blank">![neyaznafiz-card-for-github-small-transp](https://user-images.githubusercontent.com/92919697/203008499-6fbf2f29-4646-4703-ab9c-59b89918b0c9.png)</a>
+  [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+ 
+ <hr>
+
+ <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-small-transp-square](https://user-images.githubusercontent.com/92919697/203317407-3ca82090-27b4-483c-9324-765e11605719.png)</a>
+ 
+
+
+ 
+  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
+ 
+
  
 <!--  ![neyaznafiz-card-for-github-small-transp](https://user-images.githubusercontent.com/92919697/203007944-316e1bd7-5c18-4a96-a12f-3ac0340ba473.png) -->
  
@@ -25,7 +36,7 @@
 <!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
 
 
- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
+
  
  <hr>
 
@@ -85,11 +96,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![STYLED COMPONENT](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 <!-- ![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp; -->
 <!-- ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp; -->
 <!-- ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp; -->
 <!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
-![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+<!-- ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white	) -->
 
 <div align="start">
  
@@ -122,8 +135,17 @@
 
 <hr>
 
-[![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=)](https://github.com/NoobMahbub/github-readme-activity-graph)
+<!-- [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=)](https://github.com/NoobMahbub/github-readme-activity-graph) -->
+ 
+ 
+ 
+<!-- ------------------------------------------  -->
+ 
+
+ 
+<!-- -----------------------------------------  -->
+ 
 
 </div>
 
-<hr>
+<!-- <hr> -->
