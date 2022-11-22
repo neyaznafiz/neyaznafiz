@@ -6,7 +6,10 @@
  
  <hr>
 
- <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-small-transp-square](https://user-images.githubusercontent.com/92919697/203317407-3ca82090-27b4-483c-9324-765e11605719.png)</a>
+ 
+ 
+
+ <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203325323-63093cb8-16d2-4891-a42c-7a341e56be6b.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=lrx" width="245" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
 
 
