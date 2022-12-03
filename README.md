@@ -3,9 +3,9 @@
 
 <div align="center">
  
-  [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+<!--   [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
  
- <hr>
+ <hr> -->
 
  <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203328205-54cfe3f3-d610-4c68-9742-e91bd3036f91.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
@@ -57,7 +57,9 @@
 
 </br>
 
-<a href="https://www.neyaznafiz.info">![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp;
+  
+<a href="https://www.neyaznafiz.info" >![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp;
+  
 
   <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
  <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
@@ -65,7 +67,7 @@
   <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
  <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
  
-              
+        
  
 <!--  [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:neyaznafiz@outlook.com) -->
 
@@ -84,6 +86,8 @@
 
 </br>
 
+<div align="right" >
+ 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
@@ -103,8 +107,8 @@
 <!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
 ![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 <!-- ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white	) -->
-
-<div align="start">
+ 
+ </div> <div align="start">
  
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on an extension for Google Chrome called "Pixel Picker". This extension has several advantages, including the ability to pick any color from anywhere, inside the browser and outside also, meaning anywhere on your computer.
