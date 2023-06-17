@@ -41,7 +41,9 @@
 
   
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) </br>
- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1">
+ <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="422"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="450" alt="neyaz's most used languages" />
+ 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
  
 <!--  <img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs?username=neyaznafiz&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" /> -->
  
