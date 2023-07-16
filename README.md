@@ -1,6 +1,10 @@
 
 <hr>
 
+[![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+<a href="https://www.neyaznafiz.info" >![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp;
+
 <div align="center">
  
 <!--   [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
