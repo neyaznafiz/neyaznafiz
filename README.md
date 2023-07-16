@@ -3,6 +3,7 @@
 
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 <a href="https://www.neyaznafiz.info" >![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp;
 
 <div align="center">
@@ -39,9 +40,7 @@
 <!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
 
 
-### 📫  *REACH ME OUT* ⇘
-
-</br>
+<!-- ### 📫  *REACH ME OUT* ⇘ -->
 
   <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
  <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
