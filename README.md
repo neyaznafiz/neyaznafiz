@@ -18,6 +18,7 @@
 
  <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203328205-54cfe3f3-d610-4c68-9742-e91bd3036f91.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
+   IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.info" target="_blank">PORTFOLIO</a>_** 
   <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
  
 <!-- ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203327940-1ec4023d-0475-4334-8b00-7ef6b86e111c.png)  -->
@@ -41,17 +42,6 @@
 <!-- ![n-logo-size-edited](https://user-images.githubusercontent.com/92919697/199102799-1ea1f54b-efad-4140-b2c1-1996e23116eb.png) -->
 
 <!-- ![e-m-f-i](https://user-images.githubusercontent.com/92919697/199103790-05ce180b-4433-4931-90de-50923ab2b637.png) -->
-
-
-<!-- ### 📫  *REACH ME OUT* ⇘ -->
-
-  <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
- <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
-  <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
-  <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
- <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
-
-
 
  
 <hr>
@@ -81,28 +71,26 @@
 
 <!-- <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp; -->
 
-</br>
+<!--  ### *💻 TECHNOLOGIES THAT I KNOW* ⇘
 
-### *💻 TECHNOLOGIES THAT I KNOW* ⇘
+</br> 
 
-</br>
+<div align="right" > -->
 
-<div align="right" >
-
-[![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-![EXPRESS JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![STYLED COMPONENT](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+<!--[![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#) -->
+<!--[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) -->
+<!--[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
+<!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
+<!--[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) -->
+<!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
+<!--![EXPRESS JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp; -->
+<!--![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
+<!--![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; -->
+<!--[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) -->
+<!--[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) -->
+<!--![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
+<!--![STYLED COMPONENT](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp; -->
+<!--![FIGMA](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; -->
 <!--![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; -->
 <!-- ![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp; -->
 <!-- ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp; -->
@@ -110,7 +98,19 @@
 <!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
 <!-- ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white	) -->
  
- </div> <div align="start">
+ <!-- </div> -->
+
+  ### 📫  *REACH ME OUT* ⇘ 
+
+ </br>
+
+  <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
+ <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
+  <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
+  <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
+ <a href="https://twitter.com/neyaznafiz">![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>&nbsp;
+ 
+ <div align="start">
  
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on an extension for Google Chrome called "Pixel Picker". This extension has several advantages, including the ability to pick any color from anywhere, inside the browser and outside also, meaning anywhere on your computer.
