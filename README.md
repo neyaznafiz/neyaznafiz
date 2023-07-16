@@ -14,7 +14,7 @@
 
  <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203328205-54cfe3f3-d610-4c68-9742-e91bd3036f91.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
-  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_**
+  <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
  
 <!-- ![neyaznafiz-card-for-github-s-t--s-m](https://user-images.githubusercontent.com/92919697/203327940-1ec4023d-0475-4334-8b00-7ef6b86e111c.png)  -->
  
@@ -44,8 +44,10 @@
 <!--  <hr> -->
 
   
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) </br>
- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="349"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="371" alt="neyaz's most used languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="349"> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite)
+ 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="371" alt="neyaz's most used languages" /> -->
+ 
  
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
  
