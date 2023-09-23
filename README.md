@@ -12,6 +12,7 @@
 [![Tauri Badge](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)]&nbsp;
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)]&nbsp;
 [![Adobe AI](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]&nbsp;
+
 <!-- <a href="https://www.neyaznafiz.info" >![PORTFOLIO](https://img.shields.io/badge/www.neyaznafiz.info-D08E1C?style=for-the-badge&logo=Safari&logoColor=white)</a>&nbsp; -->
 
 <div align="center">
