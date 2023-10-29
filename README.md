@@ -36,9 +36,7 @@
 
 ### PRODUCT
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive (SSD/HDD) etc from a windows operating system.
-
  ##
-
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
 
