@@ -81,7 +81,7 @@
 
 </div>
 
-<div align="end">
+<div align="right">
  <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
 </div>
 
