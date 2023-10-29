@@ -29,7 +29,7 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="408" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="410" align="right">
  
 
  <div align="left">
