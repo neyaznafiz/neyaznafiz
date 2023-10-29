@@ -29,7 +29,7 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="408" align="right">
  
 
  <div align="left">
@@ -38,7 +38,7 @@
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive (SSD/HDD) etc from a windows operating system.
 
  ##
- 
+
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
 
