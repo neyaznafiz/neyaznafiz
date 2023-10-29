@@ -31,17 +31,20 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right"> &nbsp;
  
- </br>
- </br>
- </br>
- </br>
 
-<div align="left">
- 
+
+ <div align="left">
+
+### PRODUCT
+**<a href="https://crates.io/crates/system_diskinfo"> system_diskinfo</a>**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc of a windows operating system.
+
+
+
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
 
 </div>
+
 
  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) -->
  
