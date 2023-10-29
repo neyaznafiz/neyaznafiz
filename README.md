@@ -68,7 +68,7 @@
 
 <div align="start">
 
-### *💻 BLOGS* ⇘
+### *💻 My Recent Blog Post* ⇘
 <hr>
 
 #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
@@ -87,7 +87,7 @@
 </br>
 </br>
 
-### *💻 TECHNOLOGIES THAT I KNOW* ⇘
+### *💻 Technologies That I Know* ⇘
 <hr>
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)&nbsp;
