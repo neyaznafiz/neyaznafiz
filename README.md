@@ -1,5 +1,5 @@
 
-<hr>
+##
 
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -9,7 +9,7 @@
 
 <div align="center">
  
- <hr>
+##
 
  <a href="https://neyaznafiz.info/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a>
 
@@ -27,9 +27,8 @@
   <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
  
 
-<hr>
+##
 
-  
  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400"> </br>
  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) -->
  
@@ -68,8 +67,7 @@
 
 <div align="start">
 
-### *💻 My Recent Blog Post* ⇘
-<hr>
+## *💻 My Recent Blog Post* ⇘
 
 #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
 #### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
@@ -87,8 +85,7 @@
 </br>
 </br>
 
-### *💻 Technologies That I Know* ⇘
-<hr>
+## *💻 Technologies That I Know* ⇘
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)&nbsp;
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)&nbsp;
