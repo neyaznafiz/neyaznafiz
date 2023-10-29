@@ -29,7 +29,20 @@
 
 ##
 
- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400"> </br>
+ <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right"> &nbsp;
+ 
+ </br>
+ </br>
+ </br>
+ </br>
+
+<div align="left">
+ 
+ ### WHAT I AM WORKING ON NOW...!
+ Currently, I'm working on a POS software called "Queue". &nbsp; </br> This software has some amazing features for managing your business.
+
+</div>
+
  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite) -->
  
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="371" alt="neyaz's most used languages" /> -->
@@ -53,13 +66,6 @@
 
 <!-- <a href="https://pin.it/vBy1PNg">![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>&nbsp; -->
 
- 
- <div align="start">
- 
- ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
-
-</div>
 
 </br>
 </br>
