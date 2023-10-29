@@ -62,13 +62,14 @@
 
 </div>
 
-<hr>
-
 </br>
+</br>
+
 
 <div align="start">
 
 ### *💻 BLOGS* ⇘
+<hr>
 
 #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
 #### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
