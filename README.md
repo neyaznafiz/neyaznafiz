@@ -29,13 +29,13 @@
 
 ##
 
- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right"> &nbsp;
+ <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right">
  
 
- <div align="left" style="margin-top:-38px">
+ <div align="left">
 
 ### PRODUCT
- **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc of a windows operating system.
+ **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc from a windows operating system.
 
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
@@ -68,8 +68,9 @@
 
 
 </br>
+</br>
 
-<div align="start">
+<div align="left">
 
 ## *💻 My Recent Blog Post* ⇘
 
