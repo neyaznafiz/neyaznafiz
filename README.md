@@ -85,7 +85,7 @@
 
 <hr>
 
-<!-- [![NEYAZ NAFIZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=neyaznafiz&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=)](https://github.com/NoobMahbub/github-readme-activity-graph) -->
+[![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neyaznafiz&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  
