@@ -86,6 +86,7 @@
 </br>
 
 ## *💻 Technologies That I Know* ⇘
+</br>
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)&nbsp;
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)&nbsp;
