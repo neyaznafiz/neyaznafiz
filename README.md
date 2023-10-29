@@ -39,7 +39,7 @@
 <div align="left">
  
  ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a POS software called "Queue". &nbsp; </br> This software has some amazing features for managing your business.
+ Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
 
 </div>
 
