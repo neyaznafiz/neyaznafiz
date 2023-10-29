@@ -32,7 +32,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right"> &nbsp;
  
 
- <div align="left">
+ <div align="left" style="margin-top:-38px">
 
 ### PRODUCT
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc of a windows operating system.
@@ -68,8 +68,6 @@
 
 
 </br>
-
-
 
 <div align="start">
 
