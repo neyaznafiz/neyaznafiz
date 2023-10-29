@@ -64,7 +64,9 @@
 
 <hr>
 
- </br>
+</br>
+
+<div align="start">
 
 ### *💻 BLOGS* ⇘
 
@@ -72,6 +74,8 @@
 #### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
 #### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)*
 #### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
+
+</div>
 
 <div align="end">
  <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
