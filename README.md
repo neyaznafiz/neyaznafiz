@@ -32,13 +32,10 @@
  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="400" align="right"> &nbsp;
  
 
-
  <div align="left">
 
 ### PRODUCT
-**<a href="https://crates.io/crates/system_diskinfo"> system_diskinfo</a>**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc of a windows operating system.
-
-
+ **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drive means SSD/HDD etc of a windows operating system.
 
  ### WHAT I AM WORKING ON NOW...!
  Currently, I'm working on a POS software called "Queue". This software has some amazing features for managing your business.
