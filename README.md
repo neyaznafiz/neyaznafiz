@@ -23,7 +23,7 @@
   <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
   <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
  
-  <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.info" target="_blank">PORTFOLIO</a>_** -->
+  IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.xyz" target="_blank">PORTFOLIO</a>_**
   <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
  
 
