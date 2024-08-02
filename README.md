@@ -39,7 +39,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
  ##
  ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a Telemedicine software. This software has some amazing features, such as a secure audio and video appointment system between patients and doctors, prescription writing, patient monitoring, etc. Everything is builting from scratch.
+ Currently, I'm working on a Telemedicine software.
 
 </div>
 
