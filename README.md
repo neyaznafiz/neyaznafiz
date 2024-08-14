@@ -45,7 +45,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="420" height="350" alt="neyaz's most used languages" align="left" />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="371" height="350" alt="neyaz's most used languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="350" alt="neyaz's most used languages" />
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
