@@ -76,6 +76,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 ## *💻 Technologies That I Know* ⇘
 </br>
 
+[![Zig Badge](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)]&nbsp;
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)&nbsp;
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)&nbsp;
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
