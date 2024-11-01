@@ -17,7 +17,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
  <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
  
-TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://dly.to/5QsvK8GX6RM">BITPRESS SQUAD</a>_** TO GATHER MORE KNOWLEDGE </br> AND STAY UP-TO-DATE ON THE TECH INDUSTRY. </br> **_<a href="https://dly.to/5QsvK8GX6RM">JOIN BITPRESS SQUAD</a>_**
+TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://dly.to/5QsvK8GX6RM">BITPRESS SQUAD</a>_** TO GATHER MORE KNOWLEDGE </br> AND STAY UP-TO-DATE ON THE TECH INDUSTRY. &nbsp; &nbsp; **_<a href="https://dly.to/5QsvK8GX6RM">JOIN BITPRESS SQUAD</a>_**
 
 </br>
 
