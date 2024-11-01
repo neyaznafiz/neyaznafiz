@@ -16,6 +16,10 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
  <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
+ 
+TAKE ADVANTAGE OF THE **_<a href="https://dly.to/5QsvK8GX6RM">BITPRESS SQUAD</a>_** TO GATHER MORE KNOWLEDGE </br> AND STAY UP-TO-DATE ON THE TECH INDUSTRY. </br> **_<a href="https://dly.to/5QsvK8GX6RM">JOIN BITPRESS SQUAD</a>_**
+
+</br>
 
   ### 📫  *REACH ME OUT* ⇘ 
 
