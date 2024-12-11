@@ -17,7 +17,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 
 </br>
 
- <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:196px" /></a>
+ <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:220px" /></a>
  
 ##
 
