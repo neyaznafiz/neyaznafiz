@@ -66,7 +66,7 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="300" alt="neyaz's most used languages" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="300" alt="neyaz's most used languages" /> -->
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
