@@ -21,6 +21,9 @@
   
 </div>
 
+</br>
+</br>
+
 <div align="center">
  
 IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.xyz" target="_blank">PORTFOLIO</a>_**
@@ -141,7 +144,5 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 
-</br>
-</br>
 
 
