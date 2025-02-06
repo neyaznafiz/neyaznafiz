@@ -26,10 +26,6 @@
 <div align="center">
  
 IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.xyz" target="_blank">PORTFOLIO</a>_**
-
-</br>
-
- <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
  
 ##
 
@@ -82,7 +78,11 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
-</br>
+ </br>
+ </br>
+
+ <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
+
 </br>
 
 <div align="left">
