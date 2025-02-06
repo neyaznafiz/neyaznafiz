@@ -25,7 +25,7 @@
 
 <div align="center">
  
-IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.xyz" target="_blank">PORTFOLIO</a>_**
+IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
  
 ##
 
