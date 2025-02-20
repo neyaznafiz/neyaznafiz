@@ -105,6 +105,7 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 </br>
 </br>
 
+<!--
 ## *💻 Technologies That I Know* ⇘
 </br>
 
@@ -145,6 +146,4 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 ![Adobe XD](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=181818)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
-
-
-
+-->
