@@ -3,7 +3,7 @@
 </br>
 
 [![Zig Badge](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&labelColor=F7A41D&logo=zig&logoColor=ffffff)](#)
-[![Rust Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](#)
+[![Rust Badge](https://img.shields.io/badge/Rust-e6e6e6?style=for-the-badge&logo=rust&logoColor=000000)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=000000)](#)
 <img align="right" src="https://profile-counter.glitch.me/neyaznafiz/count.svg?"  />
 
