@@ -22,6 +22,20 @@
 
 </br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
+
+ <div align="left">
+
+### PRODUCT
+ **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
+ ##
+ ### WHAT I AM WORKING ON NOW...!
+ Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
+
+</div>
+
+</br>
+
 <div align="center">
  
 IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
@@ -57,19 +71,7 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
 ##
 
-</br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
-
- <div align="left">
-
-### PRODUCT
- **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
- ##
- ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
-
-</div>
 
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
 
