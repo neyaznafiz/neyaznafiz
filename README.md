@@ -17,8 +17,13 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
 </picture>
-  
+
+</br>
+
+IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
+
 </div>
+
 
 </br>
 
@@ -26,7 +31,7 @@
 
  <div align="left">
 
-### PRODUCT
+### PACKAGE
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
  ##
  ### WHAT I AM WORKING ON NOW...!
@@ -37,8 +42,7 @@
 </br>
 
 <div align="center">
- 
-IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
+
  
 ##
 
