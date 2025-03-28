@@ -18,18 +18,22 @@
 <img alt="github-snake" src="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
 </picture>
 
+</div>
+
 </br>
 
-IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
+<div align="center">
+
+  IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.xyz" target="_blank">www.neyaznafiz.xyz</a>_**
 
 </div>
 
 
-</br>
+##
 
 <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
 
- <div align="left">
+<div align="left">
 
 ### PACKAGE
  **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
@@ -42,11 +46,9 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://
 </br>
 
 <div align="center">
-
  
 ##
 
-</br>
 
 <!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
