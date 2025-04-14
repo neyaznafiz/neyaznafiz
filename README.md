@@ -10,16 +10,6 @@
 
 [![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neyaznafiz&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
-</picture>
-
-</div>
-
 </br>
 </br>
 
@@ -111,6 +101,16 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
 </br>
 </br>
+
+<div align="center">
+  
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <!--
 ## *💻 Technologies That I Know* ⇘
