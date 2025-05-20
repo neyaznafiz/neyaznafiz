@@ -20,11 +20,6 @@
 </br>
 
 <div>
-
-  </br>
-  </br>
-  </br>
-  </br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
   
