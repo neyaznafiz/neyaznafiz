@@ -19,15 +19,21 @@
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
+<div>
+
+  </br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
+  
+</div>
 
 <div align="left" style="margin-top: -24px;">
 
-### PACKAGE
- **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
- ##
- ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
+  ### PACKAGE
+   **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
+   ##
+   ### WHAT I AM WORKING ON NOW...!
+   Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
 
 </div>
 
