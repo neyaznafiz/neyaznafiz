@@ -92,6 +92,7 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 </div>
 
 <div align="right">
+  <a href='https://app.daily.dev/squads/bitpress'> ➦ JOIN BITPRESS <a/>
  <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
 </div>
 
