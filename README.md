@@ -47,8 +47,6 @@
   
   ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1)
 
-  ![](https://github-trophies.vercel.app/?username=neyaznafiz&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
   </br>
   </br>
 
