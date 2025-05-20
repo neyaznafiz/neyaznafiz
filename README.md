@@ -42,7 +42,9 @@
 
   </br>
   
-  ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz)
+  <!-- ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz) -->
+  
+  ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1)
 
   </br>
   </br>
