@@ -36,27 +36,28 @@
 </div>
 
 </br>
+</br>
 
 <div align="center">
- 
-##
+  
+  ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz)
 
+  </br>
+  </br>
 
-<!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
- 
-TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
-### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
+   <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
 
-##
+</div>
 
-</br>
+<div align="center">
+
+  ##
+
+  </br>
 
   ### 📫  *REACH ME OUT* ⇘ 
 
- </br>
+   </br>
 
   <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
   <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
@@ -64,11 +65,22 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
   <a href="https://twitter.com/neyaznafiz">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
   <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
   <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
- 
-  <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
 
-##
+  </br>
 
+  ##
+  </br>
+
+  <!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+   <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+   <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+   <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
+   
+  TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
+  ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
+  
+
+  </br>
 
 
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
@@ -77,10 +89,6 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
- </br>
- </br>
-
- <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
 
 </br>
 
@@ -119,8 +127,6 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 </div>
 
 </br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neyaznafiz" alt="neyaznafiz" /></a> </p>
 
 <!--
 ## *💻 Technologies That I Know* ⇘
