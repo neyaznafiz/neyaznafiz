@@ -120,6 +120,8 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
 </br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neyaznafiz" alt="neyaznafiz" /></a> </p>
+
 <!--
 ## *💻 Technologies That I Know* ⇘
 </br>
