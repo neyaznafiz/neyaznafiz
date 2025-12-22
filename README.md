@@ -101,8 +101,13 @@
 
   ## *💻 My Recent Blog Post* ⇘
   
-  #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
+  #### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
+  #### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
+  #### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
+  #### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
   #### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
+  #### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
+  #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
   <!-- #### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)* -->
   <!-- #### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)* -->
 
