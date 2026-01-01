@@ -1,6 +1,8 @@
 ##
 
-### <img src="./assets/wave.gif" width="28" height="28"> Hey there!
+<img src="./assets/wave.gif" width="52" height="52">
+
+### Hey there!
 
 This is Neyaz. My areas of expertise are Software/Application Engineering, UI/UX Design, as well as Web Automation. Currently, I am working at bitlaab, a cutting-edge software solution, with a belief in harnessing the power of technology to drive positive change and shaping the future through innovation and technology.
 
