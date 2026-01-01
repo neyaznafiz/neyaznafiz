@@ -36,7 +36,11 @@
    </br>
   </br>
 
+  <div align="center">
+    
    <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
+
+   </div>
    
    ##
    ### WHAT I AM WORKING ON NOW...!
@@ -47,15 +51,13 @@
 </br>
 </br>
 
-<div align="center">
+
 
 
   
   <!-- ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz) -->
   
   <!-- ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1) -->
-
-</div>
 
 <div align="center">
 
