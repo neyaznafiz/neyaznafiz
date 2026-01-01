@@ -47,6 +47,8 @@
    ### 💻 WHAT I AM WORKING ON NOW...! ⇘ 
    Currently, I'm working on <a href="https://healthmasterbd.com">Health Master</a>, a Telemedicine platform.
 
+   </br>
+   
 </div>
 
 
@@ -86,7 +88,8 @@
    
   TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
   ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
-  
+
+   </br>
 
 
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
@@ -101,13 +104,12 @@
   ##
   ### 💡 MY RECENT BLOG POSTS ⇘
   
-  #### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
-  #### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
-  #### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
-  #### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
-  #### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
-  #### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
-  #### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
+  ##### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
+  ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
+  ##### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
+  ##### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
+  ##### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
+  ##### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
   <!-- #### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)* -->
   <!-- #### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)* -->
 
