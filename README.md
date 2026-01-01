@@ -5,7 +5,7 @@
 [![Zig Badge](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&labelColor=F7A41D&logo=zig&logoColor=ffffff)](#)
 [![Rust Badge](https://img.shields.io/badge/Rust-e6e6e6?style=for-the-badge&logo=rust&logoColor=000000)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=000000)](#)
-<!-- <img align="right" src="https://profile-counter.glitch.me/neyaznafiz/count.svg?"  /> -->
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 
 [![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neyaznafiz&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
