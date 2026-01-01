@@ -34,7 +34,7 @@
    
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
 
-   </br>
+  </br>
   </br>
 
   <div align="center">
@@ -88,8 +88,6 @@
   ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
   
 
-  </br>
-
 
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
 
@@ -98,11 +96,10 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
 
-</br>
-
 <div align="left">
 
-  ## 💡 MY RECENT BLOG POSTS ⇘
+  ##
+  ### 💡 MY RECENT BLOG POSTS ⇘
   
   #### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
   #### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
