@@ -32,6 +32,12 @@
    **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and wxecute functions.
    
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
+
+   </br>
+  </br>
+
+   <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
+   
    ##
    ### WHAT I AM WORKING ON NOW...!
    Currently, I'm working on <a href="https://healthmasterbd.com">Health Master</a>, a Telemedicine platform.
@@ -48,11 +54,6 @@
   <!-- ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz) -->
   
   <!-- ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1) -->
-
-  </br>
-  </br>
-
-   <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
 
 </div>
 
