@@ -29,7 +29,7 @@
 <div align="left" style="margin-top: -24px;">
 
   ### PACKAGE
-   **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and wxecute functions.
+   **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">@bitlaab/lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and wxecute functions.
    
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
 
