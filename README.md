@@ -76,40 +76,20 @@
 
   </br>
 
-  ##
-  </br>
-
-  <!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
-   <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
-   <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
-   <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=2o8" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
-   
-  TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
-  ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
-
-   </br>
-
-
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
-
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="300" alt="neyaz's most used languages" /> -->
-
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
+</div>
 
 
 <div align="left">
 
-  ##
-  ### 💡 MY RECENT BLOG POSTS ⇘
+   ##
+   ### 💡 MY RECENT BLOG POSTS ⇘
   
-  ##### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
-  ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
-  ##### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
-  ##### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
-  ##### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
-  ##### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
-  <!-- #### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)* -->
-  <!-- #### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)* -->
+   ##### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
+   ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
+   ##### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
+   ##### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
+   ##### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
+   ##### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
 
 </div>
 
@@ -120,7 +100,25 @@
   <a href='https://app.daily.dev/squads/bitpress'> ➦ JOIN BITPRESS TO STAY UP TO DATE <a/>
 </div>
 
+##
+</br>
+
+
+<div align="center">
+    
+   <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=2o8" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
+   
+  TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
+  ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
+
+
 </div>
+
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neyaznafiz&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" /> -->
+
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="300" alt="neyaz's most used languages" /> -->
+
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
 
 ##
 
@@ -135,8 +133,6 @@
 </picture>
 
 </div>
-
-</br>
 
 <!--
 ## *💻 Technologies That I Know* ⇘
