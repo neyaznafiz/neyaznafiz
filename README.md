@@ -79,7 +79,7 @@ It would be a pleasure for me to work with people who take challenges and want t
 
    </br>
 
-  <a href="mailto:neyaz@bitlaab.com"><img src="https://img.shields.io/badge/neyaz@bitlaab.com-white?style=for-the-badge&logoColor=000000"></a>&nbsp;
+  <a href="mailto:neyaz@bitlaab.com"><img src="https://img.shields.io/badge/neyaz@bitlaab.com-eeeeee?style=for-the-badge&logoColor=000000"></a>&nbsp;
   <a href="https://www.linkedin.com/in/neyaznafiz/" target="_blank">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
   <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
   <a href="https://twitter.com/neyaznafiz" target="_blank">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
