@@ -22,13 +22,15 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=neyaznafiz&show_icons=true&theme=graywhite&line_height=38" width="420" align="right"> -->
   
 </div>
 
 <div align="left" style="margin-top: -24px;">
 
   ### PACKAGE
+   **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">lazyload</a>_**. A lightweight JavaScript utility built on top of the IntersectionObserver API to lazily load images, videos, and wxecute functions.
+   
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
    ##
    ### WHAT I AM WORKING ON NOW...!
@@ -45,7 +47,7 @@
   
   <!-- ![neyaznafiz](https://github-trophies.vercel.app/?username=neyaznafiz) -->
   
-  ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1)
+  <!-- ![neyaznafiz](https://github-profile-trophy.vercel.app/?username=neyaznafiz&row=1) -->
 
   </br>
   </br>
