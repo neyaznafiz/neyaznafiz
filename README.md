@@ -29,7 +29,7 @@
 <div align="left" style="margin-top: -24px;">
   
   ##
-  ### ⚙️ PUBLISHED PACKAGE
+  ### ⚙️ PUBLISHED PACKAGE ⇘ 
    **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">@bitlaab/lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and execute functions, only when the target element enters the viewport.
    
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
@@ -44,7 +44,7 @@
    </div>
    
    ##
-   ### 💻 WHAT I AM WORKING ON NOW...!
+   ### 💻 WHAT I AM WORKING ON NOW...! ⇘ 
    Currently, I'm working on <a href="https://healthmasterbd.com">Health Master</a>, a Telemedicine platform.
 
 </div>
@@ -63,7 +63,7 @@
 
   </br>
 
-  ### 📫  *REACH ME OUT* ⇘ 
+  ### 📫  REACH ME OUT ⇘ 
 
    </br>
 
@@ -102,7 +102,7 @@
 
 <div align="left">
 
-  ## *💡 My Recent Blog Post* ⇘
+  ## 💡 MY RECENT BLOG POSTS ⇘
   
   #### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
   #### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
