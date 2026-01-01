@@ -57,7 +57,7 @@ It would be a pleasure for me to work with people who take challenges and want t
    
    ##
    ### 💻 WHAT I AM WORKING ON NOW...! ⇘ 
-   Currently, I'm working on <a href="https://healthmasterbd.com">Health Master</a>, a Telemedicine platform.
+   Currently, I'm working on <a href="https://healthmasterbd.com" target="_blank">Health Master</a>, a Telemedicine platform.
    
 </div>
 
@@ -79,11 +79,12 @@ It would be a pleasure for me to work with people who take challenges and want t
 
    </br>
 
-  <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
+  <a href="mailto:neyaz@bitlaab.com"><img src="https://img.shields.io/badge/neyaz@bitlaab.com-white?style=for-the-badge&logoColor=000000"></a>
+  <a href="https://www.linkedin.com/in/neyaznafiz/" target="_blank">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
   <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
-  <a href="https://twitter.com/neyaznafiz">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
-  <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
-  <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
+  <a href="https://twitter.com/neyaznafiz" target="_blank">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
+  <a href="https://www.facebook.com/neyaznafiz" target="_blank">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
+  <a href="https://instagram.com/neyaznafiz" target="_blank">![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
   <!-- <a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp; -->
 
   </br>
