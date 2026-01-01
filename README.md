@@ -82,7 +82,7 @@
 <div align="left">
 
    ##
-   ### 💡 MY RECENT BLOG POSTS ⇘
+   ### 💡 RECENT BLOG POSTS ⇘
   
    ##### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
    ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
