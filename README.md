@@ -24,7 +24,7 @@ It would be a pleasure for me to work with people who take challenges and want t
 
 <div align="center">
 
-  ### IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://www.neyaznafiz.web.app" target="_blank">www.neyaznafiz.xyz</a>_**
+  ### IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT **_<a href="https://neyaznafiz.web.app" target="_blank">www.neyaznafiz.xyz</a>_**
 
 </div>
 
