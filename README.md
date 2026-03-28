@@ -97,12 +97,13 @@ It would be a pleasure for me to work with people who take challenges and want t
    ##
    ### 💡 RECENT BLOG POSTS ⇘
   
-   ##### ➥ *[The API Handbook: Every Type You Must Know.](https://dev.to/neyaznafiz/the-api-handbook-every-type-you-must-know-5hl9)*
-   ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)*
-   ##### ➥ *[Your Git Confusion Ends Here.](https://dev.to/neyaznafiz/your-git-confusion-ends-here-1fc0)*
-   ##### ➥ *[A Quick Overview Of Zig.](https://dev.to/neyaznafiz/a-quick-overview-of-zig-4926)*
-   ##### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
-   ##### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://dev.to/neyaznafiz/introducing-globeflags-a-beautiful-open-source-collection-of-world-flags-1pbg)*
+   ##### ➥ *[The API Handbook: Every Type You Must Know.](https://blog.neyaznafiz.com/2026/03/the-api-handbook-every-type-you-must.html)*
+   ##### ➥ *[Never Use Git Pull - The Beauty Of Rebase.](https://blog.neyaznafiz.com/2026/03/never-use-git-pull-beauty-of-rebase.html)*
+   ##### ➥ *[Your Git Confusion Ends Here.](https://blog.neyaznafiz.com/2026/03/git-confusion-ends-here.html)*
+   ##### ➥ *[What is Git? What is GitHub? Version Control Explained Simply.](https://blog.neyaznafiz.com/2026/03/git-vs-github-version-control.html)*
+   ##### ➥ *[Zig! A Quick Introduction for Developers.](https://blog.neyaznafiz.com/2025/12/what-is-zig-quick-introduction-for.html)*
+   ##### ➥ *[Rust! How It Can Elevate Your Software Development.](https://blog.neyaznafiz.com/2023/09/what-is-rust-how-it-can-elevate-your.html)*
+   ##### ➥ *[Introducing GlobeFlags – A Beautiful, Open-Source Collection of World Flags.](https://blog.neyaznafiz.com/2026/03/globflags.html)*
 
 </div>
 
