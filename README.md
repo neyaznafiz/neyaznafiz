@@ -42,7 +42,7 @@ It would be a pleasure for me to work with people who take challenges and want t
   ##
   ### ⚙️ PUBLISHED PACKAGES ⇘ 
   
-   **_<a href="https://www.npmjs.com/package/@bitlaab/lazyload" target="_blank">@bitlaab/lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and execute functions, only when the target element enters the viewport.
+   **_<a href="https://bitlaablazyload.web.app/" target="_blank">@bitlaab/lazyload</a>_**. A lightweight JavaScript utility package built on top of the IntersectionObserver API to lazily load images, videos, and execute functions, only when the target element enters the viewport.
    
    **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
 
