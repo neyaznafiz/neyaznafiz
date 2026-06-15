@@ -138,7 +138,7 @@ It would be a pleasure for me to work with people who take challenges and want t
 
 </br>
 
-<div align="center">
+<!-- <div align="center">
   
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake-dark.svg" />
@@ -146,7 +146,7 @@ It would be a pleasure for me to work with people who take challenges and want t
 <img alt="github-snake" src="https://raw.githubusercontent.com/neyaznafiz/neyaznafiz/output/github-snake.svg" />
 </picture>
 
-</div>
+</div> -->
 
 <!--
 ## *💻 Technologies That I Know* ⇘
